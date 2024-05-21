@@ -28,7 +28,7 @@
 <a href="https://www.instagram.com/kavin.xd/" target="_blank"><img align="left" alt="Kavin K V | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />
 <a href="https://www.facebook.com/" target="_blank"><img align="left" alt="Kavin K V | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 <a href="https://www.hackerrank.com/profile/kvkkavin85" target="_blank"><img align="left" alt="Kavin K V | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiIxIVXz4t" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
