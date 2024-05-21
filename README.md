@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavin-k-v-b8482828a" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/kavin-k-v-b8482828a/" target="_blank"><img align="left" alt="Kavin K V | LinkedIn" width="22px" src="https://thumbs.dreamstime.com/b/web-184355984.jpg" />
 <a href="https://www.instagram.com/kavin.xd/" target="_blank"><img align="left" alt="Kavin K V | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" />
 <a href="https://www.facebook.com/" target="_blank"><img align="left" alt="Kavin K V | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
